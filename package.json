@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-quick-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjverduzco/mongoose-quick-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjverduzco/mongoose-quick-start/issues"
+  },
+  "homepage": "https://github.com/bjverduzco/mongoose-quick-start#readme",
+  "dependencies": {
+    "mongoose": "^4.5.7"
+  }
+}
